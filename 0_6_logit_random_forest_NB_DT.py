@@ -3,7 +3,7 @@
 """
 Project: Object-oriented-Metric-Thresholds
 File: 1_0_logit_random_forest_NB_DT.py
-Date : 2022/12/20 11:12
+Date : 2026/08/20 11:12
 
 在验证集上项目版本上用LOGIT，random forest，Naive bayes，Decision Trees模型训练，在测试集上预测。然后与无监督方法比较。
 
