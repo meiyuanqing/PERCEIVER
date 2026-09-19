@@ -3,7 +3,7 @@
 """
 Project: Object-oriented-Metric-Thresholds
 File: 0_5_cla_sloc_on_nam_data.py
-Date : 2022/12/16 10:55
+Date : 2026/08/16 10:55
 
 在CLAMI方法的NAM等人的数据集上，应用PERCEIVER_1方法，增加precision,recall,auc三个指标，并与NAM等人的方法比较。
 
